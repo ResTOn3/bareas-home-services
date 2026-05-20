@@ -1,12 +1,12 @@
 import { useTranslation } from 'react-i18next'
-import { Shield, Clock, Languages, MapPin, Tag } from 'lucide-react'
+import { Shield, Clock, MapPin, Tag, Star } from 'lucide-react'
 
 const badges = [
   { key: 'licensed', Icon: Shield },
   { key: 'experience', Icon: Clock },
-  { key: 'bilingual', Icon: Languages },
   { key: 'localTampa', Icon: MapPin },
   { key: 'freeEstimate', Icon: Tag },
+  { key: 'satisfaction', Icon: Star },
 ]
 
 export default function TrustBadges({ className = '' }) {

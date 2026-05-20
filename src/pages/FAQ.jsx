@@ -35,11 +35,11 @@ export default function FAQ() {
   return (
     <>
       <SEO
-        title="FAQ — Tampa Pro Services"
-        description="Common questions about our home services — pricing, permits, timelines, deposits, and service area."
+        title="FAQ - Barea's Home Services"
+        description="Common questions about our home services - pricing, permits, timelines, deposits, and service area."
       />
 
-      <section className="py-14 px-4 bg-gray-50 min-h-screen">
+      <section className="py-16 md:py-24 px-4 bg-gray-50 min-h-screen">
         <div className="max-w-3xl mx-auto">
           <div className="text-center mb-10">
             <h1 className="text-3xl sm:text-4xl font-bold text-brand-navy mb-3">{t('title')}</h1>

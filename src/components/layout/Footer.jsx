@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { Phone, Mail, MapPin, Shield } from 'lucide-react'
+import LogoIcon from './Logo'
 
 export default function Footer() {
   const { t } = useTranslation()
@@ -28,11 +29,18 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand */}
           <div>
-            <Link to="/" className="inline-block mb-3">
-              <span className="text-2xl font-bold text-white">
-                Tampa<span className="text-brand-orange">Pro</span>{' '}
-                <span className="text-gray-300 text-lg">Services</span>
-              </span>
+            <Link to="/" className="inline-flex items-center gap-2 mb-3 group">
+              <div className="flex items-center justify-center w-9 h-9 bg-brand-orange rounded-lg group-hover:bg-brand-orange-dark transition-colors">
+                <LogoIcon size={22} />
+              </div>
+              <div className="leading-tight">
+                <span className="block text-base font-extrabold text-white tracking-tight">
+                  Barea's
+                </span>
+                <span className="block text-[10px] font-semibold text-brand-orange uppercase tracking-widest -mt-0.5">
+                  Home Services
+                </span>
+              </div>
             </Link>
             <p className="text-sm leading-relaxed text-gray-400">{t('footer.tagline')}</p>
             <div className="mt-4 flex items-start gap-2">

@@ -7,7 +7,7 @@
     "email": "Correo Electrónico",
     "emailPlaceholder": "juan@email.com",
     "phone": "Número de Teléfono",
-    "phonePlaceholder": "(813) 555-0100",
+    "phonePlaceholder": "+1 (321) 466-3684",
     "service": "Servicio Necesario",
     "servicePlaceholder": "Selecciona un servicio...",
     "message": "Detalles del Proyecto (opcional)",
@@ -15,7 +15,7 @@
     "submit": "Enviar Mi Solicitud",
     "submitting": "Enviando...",
     "success": "¡Recibimos tu solicitud! Te llamaremos en menos de 24 horas.",
-    "error": "Algo salió mal. Por favor llámanos directamente al (813) 555-0100.",
+    "error": "Algo salió mal. Por favor llámanos directamente al +1 (321) 466-3684.",
     "services": {
       "painting": "Pintura",
       "remodeling": "Remodelación",

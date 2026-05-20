@@ -10,7 +10,7 @@ export default function Contact() {
   return (
     <>
       <SEO
-        title="Get a Free Quote — Contact Tampa Pro Services"
+        title="Get a Free Quote - Barea's Home Services"
         description="Request a free estimate for painting, remodeling, construction, plumbing, or electrical work in Tampa Bay. Call, text, or fill out our quick form."
       />
 
@@ -24,14 +24,11 @@ export default function Contact() {
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            {/* Form */}
             <div className="lg:col-span-2 bg-white rounded-2xl shadow-sm border border-gray-100 p-6 sm:p-8">
               <QuoteForm sourcePage="contact" />
             </div>
 
-            {/* Sidebar */}
             <div className="flex flex-col gap-6">
-              {/* Direct contact */}
               <div className="bg-brand-navy rounded-2xl p-6 text-white">
                 <h2 className="font-bold text-lg mb-4">{t('contact:directContact.title')}</h2>
                 <ul className="space-y-4">
@@ -80,7 +77,6 @@ export default function Contact() {
                 </ul>
               </div>
 
-              {/* Service area */}
               <div className="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm">
                 <h2 className="font-bold text-brand-navy mb-3">{t('contact:serviceArea.title')}</h2>
                 <p className="text-sm text-gray-600 leading-relaxed">

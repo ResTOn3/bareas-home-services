@@ -7,7 +7,7 @@
     "email": "Email Address",
     "emailPlaceholder": "john@email.com",
     "phone": "Phone Number",
-    "phonePlaceholder": "(813) 555-0100",
+    "phonePlaceholder": "+1 (321) 466-3684",
     "service": "Service Needed",
     "servicePlaceholder": "Select a service...",
     "message": "Project Details (optional)",
@@ -15,7 +15,7 @@
     "submit": "Send My Request",
     "submitting": "Sending...",
     "success": "We received your request! We'll call you within 24 hours.",
-    "error": "Something went wrong. Please call us directly at (813) 555-0100.",
+    "error": "Something went wrong. Please call us directly at +1 (321) 466-3684.",
     "services": {
       "painting": "Painting",
       "remodeling": "Remodeling",

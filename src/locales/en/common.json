@@ -18,7 +18,7 @@
     "serviceAreaDetail": "Tampa · St. Pete · Clearwater · Brandon · Wesley Chapel",
     "license": "Licensed & Insured",
     "licenseNumber": "License #CGC-000000",
-    "copyright": "© {{year}} Tampa Pro Services. All rights reserved.",
+    "copyright": "© {{year}} Barea's Home Services. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service"
   },
@@ -32,13 +32,13 @@
   },
   "trust": {
     "licensed": "Licensed & Insured",
-    "experience": "10+ Years Experience",
-    "bilingual": "English & Spanish",
+    "experience": "4+ Years Experience",
     "localTampa": "Local Tampa Business",
-    "freeEstimate": "Free Estimates"
+    "freeEstimate": "Free Estimates",
+    "satisfaction": "100% Satisfaction"
   },
-  "phone": "(813) 555-0100",
-  "email": "info@tampapro.com",
+  "phone": "+1 (321) 466-3684",
+  "email": "ernebarea@gmail.com",
   "address": "Tampa, FL 33601",
-  "businessName": "Tampa Pro Services"
+  "businessName": "Barea's Home Services"
 }

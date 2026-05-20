@@ -1,12 +1,20 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { Menu, X, Phone } from 'lucide-react'
 import LanguageToggle from '../ui/LanguageToggle'
+import LogoIcon from './Logo'
 
 export default function Header() {
   const { t } = useTranslation()
   const [open, setOpen] = useState(false)
+  const [scrolled, setScrolled] = useState(false)
+
+  useEffect(() => {
+    const handler = () => setScrolled(window.scrollY > 8)
+    window.addEventListener('scroll', handler, { passive: true })
+    return () => window.removeEventListener('scroll', handler)
+  }, [])
 
   const navLinks = [
     { to: '/', label: t('nav.home') },
@@ -24,15 +32,26 @@ export default function Header() {
     }`
 
   return (
-    <header className="sticky top-0 z-50 bg-white shadow-sm">
+    <header
+      className={`sticky top-0 z-50 backdrop-blur-md bg-white/90 transition-shadow duration-200 ${
+        scrolled ? 'shadow-md' : 'shadow-sm'
+      }`}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2 shrink-0">
-            <span className="text-xl font-bold text-brand-navy leading-tight">
-              Tampa<span className="text-brand-orange">Pro</span>
-            </span>
-            <span className="hidden sm:block text-xs text-gray-500 font-medium">Services</span>
+          <Link to="/" className="flex items-center gap-2 shrink-0 group">
+            <div className="flex items-center justify-center w-9 h-9 bg-brand-orange rounded-lg shadow-sm group-hover:bg-brand-orange-dark transition-colors">
+              <LogoIcon size={22} />
+            </div>
+            <div className="leading-tight">
+              <span className="block text-base font-extrabold text-brand-navy tracking-tight">
+                Barea's
+              </span>
+              <span className="block text-[10px] font-semibold text-brand-orange uppercase tracking-widest -mt-0.5">
+                Home Services
+              </span>
+            </div>
           </Link>
 
           {/* Desktop nav */}

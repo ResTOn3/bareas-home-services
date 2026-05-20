@@ -1,0 +1,38 @@
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Answers to the most common questions we get from Tampa Bay homeowners.",
+  "items": [
+    {
+      "q": "How do I get an estimate?",
+      "a": "Fill out the quote form on our Contact page or call us directly. We'll schedule a free on-site visit within 1–2 business days."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes. We are fully licensed by the State of Florida (License #CGC-000000) and carry general liability insurance. We can provide certificates on request."
+    },
+    {
+      "q": "How long does a typical project take?",
+      "a": "It depends on the scope. A room repaint takes 1–2 days. A bathroom remodel typically takes 1–2 weeks. We give you a realistic timeline before we start and keep you updated throughout."
+    },
+    {
+      "q": "Do you require a deposit?",
+      "a": "For projects over $2,000 we typically require a 30% deposit to schedule and secure materials. The balance is due upon completion."
+    },
+    {
+      "q": "Do you pull permits?",
+      "a": "Yes. For any work that requires a permit under Florida building code, we handle the permitting process. We never skip permits — it protects you as a homeowner."
+    },
+    {
+      "q": "Do you serve areas outside Tampa?",
+      "a": "Yes. We serve the greater Tampa Bay area including St. Petersburg, Clearwater, Brandon, Wesley Chapel, Land O' Lakes, and surrounding areas. Call us if you're unsure."
+    },
+    {
+      "q": "Can you work with Spanish-speaking clients?",
+      "a": "Absolutely. Our owner is bilingual. We're happy to communicate fully in Spanish."
+    },
+    {
+      "q": "What payment methods do you accept?",
+      "a": "We accept cash, check, Zelle, and major credit cards. Payment terms are included in your written estimate."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "headline": "Tampa's Trusted Home Services Contractor",
+    "subheadline": "Painting · Remodeling · Construction · Plumbing · Electrical",
+    "body": "Professional, licensed, and bilingual service for homeowners across the Tampa Bay area. Free estimates — no pressure.",
+    "cta": "Get Your Free Quote",
+    "ctaSecondary": "View Our Work"
+  },
+  "services": {
+    "title": "What We Do",
+    "subtitle": "Full-service home improvements, done right the first time."
+  },
+  "whyUs": {
+    "title": "Why Homeowners Choose Us",
+    "subtitle": "We treat your home like our own.",
+    "items": [
+      {
+        "title": "Licensed & Insured",
+        "body": "Fully licensed in Florida. You're protected on every job."
+      },
+      {
+        "title": "10+ Years Experience",
+        "body": "A decade of professional contracting in the Tampa Bay area."
+      },
+      {
+        "title": "Bilingual Service",
+        "body": "We speak English and Spanish — clear communication guaranteed."
+      },
+      {
+        "title": "Free Estimates",
+        "body": "Transparent pricing with no hidden fees. No obligation."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real reviews from Tampa Bay homeowners.",
+    "viewAll": "Read All Reviews"
+  },
+  "cta": {
+    "title": "Ready to Start Your Project?",
+    "body": "Call us or fill out the form. We'll get back to you within 24 hours.",
+    "cta": "Request a Free Quote"
+  }
+}

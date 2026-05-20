@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "about": "Nosotros",
+    "testimonials": "Testimonios",
+    "contact": "Contacto",
+    "faq": "Preguntas",
+    "getQuote": "Cotización Gratis"
+  },
+  "footer": {
+    "tagline": "Trabajo de calidad en el que puedes confiar.",
+    "services": "Servicios",
+    "quickLinks": "Enlaces",
+    "contact": "Contáctanos",
+    "serviceArea": "Servicio en Tampa Bay",
+    "serviceAreaDetail": "Tampa · St. Pete · Clearwater · Brandon · Wesley Chapel",
+    "license": "Licenciado y Asegurado",
+    "licenseNumber": "Licencia #CGC-000000",
+    "copyright": "© {{year}} Tampa Pro Services. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "cta": {
+    "freeQuote": "Cotización Gratis",
+    "callNow": "Llamar Ahora",
+    "whatsapp": "Chatear por WhatsApp",
+    "learnMore": "Más Información",
+    "viewAll": "Ver Todo",
+    "backHome": "Volver al Inicio"
+  },
+  "trust": {
+    "licensed": "Licenciado y Asegurado",
+    "experience": "Más de 10 Años de Experiencia",
+    "bilingual": "Inglés y Español",
+    "localTampa": "Empresa Local de Tampa",
+    "freeEstimate": "Presupuestos Gratis"
+  },
+  "phone": "(813) 555-0100",
+  "email": "info@tampapro.com",
+  "address": "Tampa, FL 33601",
+  "businessName": "Tampa Pro Services"
+}

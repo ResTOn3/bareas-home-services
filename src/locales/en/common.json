@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "getQuote": "Get a Free Quote"
+  },
+  "footer": {
+    "tagline": "Quality craftsmanship you can trust.",
+    "services": "Services",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "serviceArea": "Serving Tampa Bay",
+    "serviceAreaDetail": "Tampa · St. Pete · Clearwater · Brandon · Wesley Chapel",
+    "license": "Licensed & Insured",
+    "licenseNumber": "License #CGC-000000",
+    "copyright": "© {{year}} Tampa Pro Services. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "cta": {
+    "freeQuote": "Get a Free Quote",
+    "callNow": "Call Now",
+    "whatsapp": "Chat on WhatsApp",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "backHome": "Back to Home"
+  },
+  "trust": {
+    "licensed": "Licensed & Insured",
+    "experience": "10+ Years Experience",
+    "bilingual": "English & Spanish",
+    "localTampa": "Local Tampa Business",
+    "freeEstimate": "Free Estimates"
+  },
+  "phone": "(813) 555-0100",
+  "email": "info@tampapro.com",
+  "address": "Tampa, FL 33601",
+  "businessName": "Tampa Pro Services"
+}

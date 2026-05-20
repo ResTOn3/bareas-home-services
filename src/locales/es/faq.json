@@ -1,0 +1,38 @@
+{
+  "title": "Preguntas Frecuentes",
+  "subtitle": "Respuestas a las preguntas más comunes de los propietarios en Tampa Bay.",
+  "items": [
+    {
+      "q": "¿Cómo obtengo un presupuesto?",
+      "a": "Completa el formulario en nuestra página de Contacto o llámanos directamente. Programaremos una visita gratuita en el sitio dentro de 1 a 2 días hábiles."
+    },
+    {
+      "q": "¿Están licenciados y asegurados?",
+      "a": "Sí. Tenemos licencia completa del Estado de Florida (Licencia #CGC-000000) y contamos con seguro de responsabilidad general. Podemos proporcionar certificados a pedido."
+    },
+    {
+      "q": "¿Cuánto tiempo toma un proyecto típico?",
+      "a": "Depende del alcance. Una pintura de habitación toma 1 a 2 días. Una remodelación de baño normalmente toma 1 a 2 semanas. Te damos un plazo realista antes de comenzar y te mantenemos informado durante todo el proceso."
+    },
+    {
+      "q": "¿Requieren un depósito?",
+      "a": "Para proyectos de más de $2,000, generalmente solicitamos un depósito del 30% para programar y asegurar los materiales. El saldo se paga al completarse el trabajo."
+    },
+    {
+      "q": "¿Sacan permisos?",
+      "a": "Sí. Para cualquier trabajo que requiera permiso según el código de construcción de Florida, nosotros manejamos el proceso. Nunca omitimos permisos — eso te protege como propietario."
+    },
+    {
+      "q": "¿Sirven áreas fuera de Tampa?",
+      "a": "Sí. Servimos el área metropolitana de Tampa Bay incluyendo St. Petersburg, Clearwater, Brandon, Wesley Chapel, Land O' Lakes y zonas cercanas. Llámanos si no estás seguro."
+    },
+    {
+      "q": "¿Trabajan con clientes hispanohablantes?",
+      "a": "Por supuesto. Nuestro dueño es bilingüe. Con gusto nos comunicamos completamente en español."
+    },
+    {
+      "q": "¿Qué métodos de pago aceptan?",
+      "a": "Aceptamos efectivo, cheque, Zelle y las principales tarjetas de crédito. Los términos de pago se incluyen en tu presupuesto por escrito."
+    }
+  ]
+}

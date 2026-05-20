@@ -1,0 +1,39 @@
+{
+  "title": "Get a Free Quote",
+  "subtitle": "Tell us about your project and we'll get back to you within 24 hours.",
+  "form": {
+    "name": "Full Name",
+    "namePlaceholder": "John Smith",
+    "email": "Email Address",
+    "emailPlaceholder": "john@email.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "(813) 555-0100",
+    "service": "Service Needed",
+    "servicePlaceholder": "Select a service...",
+    "message": "Project Details (optional)",
+    "messagePlaceholder": "Describe your project — size, timeline, any special requirements...",
+    "submit": "Send My Request",
+    "submitting": "Sending...",
+    "success": "We received your request! We'll call you within 24 hours.",
+    "error": "Something went wrong. Please call us directly at (813) 555-0100.",
+    "services": {
+      "painting": "Painting",
+      "remodeling": "Remodeling",
+      "construction": "Construction",
+      "plumbing": "Plumbing",
+      "electrical": "Electrical",
+      "other": "Other / Not Sure"
+    }
+  },
+  "directContact": {
+    "title": "Prefer to Talk Directly?",
+    "call": "Call or Text",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "hours": "Mon–Sat, 7am–7pm"
+  },
+  "serviceArea": {
+    "title": "Service Area",
+    "detail": "We serve the greater Tampa Bay area including Tampa, St. Petersburg, Clearwater, Brandon, Wesley Chapel, Land O' Lakes, and surrounding communities."
+  }
+}

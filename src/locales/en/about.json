@@ -1,0 +1,35 @@
+{
+  "title": "About Tampa Pro Services",
+  "hero": {
+    "headline": "Built on Experience, Driven by Pride",
+    "body": "A local contractor who treats every home like his own."
+  },
+  "story": {
+    "title": "Our Story",
+    "body1": "Tampa Pro Services was founded by a veteran contractor with over 10 years of hands-on experience in home improvement and construction across Florida. After spending years building a reputation working for an established contracting firm, the decision was made to bring that same level of professionalism and quality directly to Tampa Bay homeowners.",
+    "body2": "We believe every homeowner deserves a contractor who shows up on time, communicates clearly, and delivers what they promise. Being bilingual means we can serve both English and Spanish-speaking families in our community — and that matters to us deeply."
+  },
+  "values": {
+    "title": "How We Work",
+    "items": [
+      { "title": "Honesty First", "body": "We give you straight answers and honest estimates. No bait-and-switch, no surprise charges." },
+      { "title": "Clean Jobsites", "body": "We respect your home. Every crew member is trained to leave the site clean at the end of each day." },
+      { "title": "We Show Up", "body": "We do what we say, when we say. Our reputation depends on it." },
+      { "title": "Quality Materials", "body": "We source quality materials and never cut corners that affect the longevity of your project." }
+    ]
+  },
+  "credentials": {
+    "title": "Credentials & Coverage",
+    "license": "Florida State Contractor License",
+    "licenseNumber": "License #CGC-000000",
+    "insurance": "General Liability Insurance",
+    "insuranceDetail": "Fully insured — your property is protected.",
+    "years": "10+ Years in Business",
+    "yearsDetail": "Serving Tampa Bay since 2014."
+  },
+  "cta": {
+    "title": "Ready to Work Together?",
+    "body": "Let's talk about your project.",
+    "button": "Get a Free Quote"
+  }
+}

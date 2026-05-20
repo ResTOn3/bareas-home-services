@@ -1,0 +1,37 @@
+{
+  "title": "Our Services",
+  "subtitle": "Professional home services across Tampa Bay. Every job backed by our quality guarantee.",
+  "cta": "Get a Free Quote for This Service",
+  "items": {
+    "painting": {
+      "title": "Painting",
+      "shortDesc": "Interior and exterior painting with premium materials.",
+      "description": "Transform your home with a fresh coat of paint. We handle interior and exterior projects of all sizes — from a single room to a full house repaint. We use premium, low-VOC paints and leave your space clean.",
+      "features": ["Interior & exterior", "Pressure washing included", "Premium low-VOC paints", "Clean jobsite guaranteed"]
+    },
+    "remodeling": {
+      "title": "Remodeling",
+      "shortDesc": "Kitchen, bathroom, and whole-home remodels.",
+      "description": "Modernize your kitchen, bathroom, or any living space. We handle design coordination, demolition, and build-out — all in one crew. No need to manage multiple contractors.",
+      "features": ["Kitchen remodels", "Bathroom remodels", "Flooring installation", "Tile & drywall"]
+    },
+    "construction": {
+      "title": "Construction",
+      "shortDesc": "Additions, decks, fences, and structural work.",
+      "description": "From room additions to new decks and fences, we handle structural work that adds real value to your property. All work is permitted and up to Florida building code.",
+      "features": ["Room additions", "Deck & patio construction", "Fence installation", "Permit coordination"]
+    },
+    "plumbing": {
+      "title": "Plumbing",
+      "shortDesc": "Repairs, installs, and fixture upgrades.",
+      "description": "Leaky pipes, new fixture installs, or a full bathroom plumbing rough-in — we've got it covered. Fast response and clean workmanship.",
+      "features": ["Leak repairs", "Fixture installation", "Water heater service", "Bathroom rough-in"]
+    },
+    "electrical": {
+      "title": "Electrical",
+      "shortDesc": "Safe, code-compliant electrical work.",
+      "description": "Panel upgrades, outlet installs, ceiling fans, recessed lighting — all electrical work is done to code and inspected for safety. We don't cut corners on electrical.",
+      "features": ["Panel upgrades", "Outlet & switch installs", "Ceiling fans & lighting", "Code inspections"]
+    }
+  }
+}

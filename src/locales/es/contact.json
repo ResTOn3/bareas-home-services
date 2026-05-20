@@ -1,0 +1,39 @@
+{
+  "title": "Cotización Gratis",
+  "subtitle": "Cuéntanos sobre tu proyecto y te respondemos en menos de 24 horas.",
+  "form": {
+    "name": "Nombre Completo",
+    "namePlaceholder": "Juan García",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "juan@email.com",
+    "phone": "Número de Teléfono",
+    "phonePlaceholder": "(813) 555-0100",
+    "service": "Servicio Necesario",
+    "servicePlaceholder": "Selecciona un servicio...",
+    "message": "Detalles del Proyecto (opcional)",
+    "messagePlaceholder": "Describe tu proyecto — tamaño, fecha, requisitos especiales...",
+    "submit": "Enviar Mi Solicitud",
+    "submitting": "Enviando...",
+    "success": "¡Recibimos tu solicitud! Te llamaremos en menos de 24 horas.",
+    "error": "Algo salió mal. Por favor llámanos directamente al (813) 555-0100.",
+    "services": {
+      "painting": "Pintura",
+      "remodeling": "Remodelación",
+      "construction": "Construcción",
+      "plumbing": "Plomería",
+      "electrical": "Electricidad",
+      "other": "Otro / No Estoy Seguro"
+    }
+  },
+  "directContact": {
+    "title": "¿Prefieres Hablar Directamente?",
+    "call": "Llamar o Escribir",
+    "whatsapp": "WhatsApp",
+    "email": "Correo",
+    "hours": "Lun–Sáb, 7am–7pm"
+  },
+  "serviceArea": {
+    "title": "Área de Servicio",
+    "detail": "Servimos el área metropolitana de Tampa Bay incluyendo Tampa, St. Petersburg, Clearwater, Brandon, Wesley Chapel, Land O' Lakes y comunidades circundantes."
+  }
+}

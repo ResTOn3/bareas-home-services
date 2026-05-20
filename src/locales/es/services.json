@@ -1,0 +1,37 @@
+{
+  "title": "Nuestros Servicios",
+  "subtitle": "Servicios profesionales para el hogar en Tampa Bay. Todo trabajo respaldado por nuestra garantía de calidad.",
+  "cta": "Cotización Gratis para Este Servicio",
+  "items": {
+    "painting": {
+      "title": "Pintura",
+      "shortDesc": "Pintura interior y exterior con materiales premium.",
+      "description": "Transforma tu hogar con una capa fresca de pintura. Manejamos proyectos interiores y exteriores de todos los tamaños — desde una sola habitación hasta una casa completa. Usamos pinturas premium de bajo contenido en VOC.",
+      "features": ["Interior y exterior", "Lavado a presión incluido", "Pinturas premium bajas en VOC", "Sitio de trabajo limpio garantizado"]
+    },
+    "remodeling": {
+      "title": "Remodelación",
+      "shortDesc": "Remodelaciones de cocinas, baños y hogares completos.",
+      "description": "Moderniza tu cocina, baño o cualquier espacio. Manejamos coordinación de diseño, demolición y construcción — todo con un solo equipo. Sin necesidad de gestionar múltiples contratistas.",
+      "features": ["Remodelaciones de cocinas", "Remodelaciones de baños", "Instalación de pisos", "Azulejos y paredes de yeso"]
+    },
+    "construction": {
+      "title": "Construcción",
+      "shortDesc": "Ampliaciones, terrazas, cercas y trabajo estructural.",
+      "description": "Desde ampliaciones de habitaciones hasta nuevas terrazas y cercas, manejamos trabajos estructurales que agregan valor real a tu propiedad. Todo el trabajo está permitido y cumple con el código de construcción de Florida.",
+      "features": ["Ampliaciones de habitaciones", "Construcción de terrazas y patios", "Instalación de cercas", "Coordinación de permisos"]
+    },
+    "plumbing": {
+      "title": "Plomería",
+      "shortDesc": "Reparaciones, instalaciones y mejoras de accesorios.",
+      "description": "Tuberías con fugas, instalaciones de nuevos accesorios o una instalación completa de plomería para baño — lo tenemos cubierto. Respuesta rápida y trabajo limpio.",
+      "features": ["Reparación de fugas", "Instalación de accesorios", "Servicio de calentadores de agua", "Instalación de plomería para baño"]
+    },
+    "electrical": {
+      "title": "Electricidad",
+      "shortDesc": "Trabajo eléctrico seguro y conforme al código.",
+      "description": "Mejoras de paneles, instalaciones de tomacorrientes, ventiladores de techo, iluminación empotrada — todo el trabajo eléctrico se realiza conforme al código e inspeccionado para mayor seguridad.",
+      "features": ["Mejoras de paneles", "Instalación de tomacorrientes e interruptores", "Ventiladores e iluminación", "Inspecciones de código"]
+    }
+  }
+}

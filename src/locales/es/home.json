@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "headline": "El Contratista de Confianza de Tampa",
+    "subheadline": "Pintura · Remodelación · Construcción · Plomería · Electricidad",
+    "body": "Servicio profesional, licenciado y bilingüe para propietarios en el área de Tampa Bay. Presupuestos gratis — sin compromiso.",
+    "cta": "Obtener Cotización Gratis",
+    "ctaSecondary": "Ver Nuestro Trabajo"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Mejoras completas para el hogar, bien hechas desde la primera vez."
+  },
+  "whyUs": {
+    "title": "¿Por Qué Elegirnos?",
+    "subtitle": "Tratamos tu hogar como si fuera el nuestro.",
+    "items": [
+      {
+        "title": "Licenciado y Asegurado",
+        "body": "Totalmente licenciado en Florida. Tu propiedad está protegida en cada trabajo."
+      },
+      {
+        "title": "Más de 10 Años de Experiencia",
+        "body": "Una década de contratismo profesional en el área de Tampa Bay."
+      },
+      {
+        "title": "Servicio Bilingüe",
+        "body": "Hablamos inglés y español — comunicación clara garantizada."
+      },
+      {
+        "title": "Presupuestos Gratis",
+        "body": "Precios transparentes sin cargos ocultos. Sin obligación."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Reseñas reales de propietarios en Tampa Bay.",
+    "viewAll": "Ver Todas las Reseñas"
+  },
+  "cta": {
+    "title": "¿Listo para Comenzar tu Proyecto?",
+    "body": "Llámanos o completa el formulario. Te respondemos en menos de 24 horas.",
+    "cta": "Solicitar Cotización Gratis"
+  }
+}

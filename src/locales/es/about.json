@@ -1,0 +1,35 @@
+{
+  "title": "Sobre Tampa Pro Services",
+  "hero": {
+    "headline": "Construido con Experiencia, Impulsado por el Orgullo",
+    "body": "Un contratista local que trata cada hogar como si fuera el suyo."
+  },
+  "story": {
+    "title": "Nuestra Historia",
+    "body1": "Tampa Pro Services fue fundada por un contratista veterano con más de 10 años de experiencia práctica en mejoras del hogar y construcción en Florida. Después de años trabajando y construyendo su reputación en una empresa de construcción establecida, tomó la decisión de llevar ese mismo nivel de profesionalismo y calidad directamente a los propietarios de Tampa Bay.",
+    "body2": "Creemos que todo propietario merece un contratista que llegue a tiempo, se comunique con claridad y cumpla lo que promete. Ser bilingüe nos permite servir tanto a familias angloparlantes como hispanohablantes en nuestra comunidad — y eso nos importa profundamente."
+  },
+  "values": {
+    "title": "Cómo Trabajamos",
+    "items": [
+      { "title": "Honestidad Primero", "body": "Te damos respuestas directas y presupuestos honestos. Sin trucos, sin cargos sorpresa." },
+      { "title": "Sitios Limpios", "body": "Respetamos tu hogar. Cada miembro del equipo está capacitado para dejar el sitio limpio al final de cada día." },
+      { "title": "Cumplimos lo que Prometemos", "body": "Hacemos lo que decimos, cuando lo decimos. Nuestra reputación depende de ello." },
+      { "title": "Materiales de Calidad", "body": "Utilizamos materiales de calidad y nunca tomamos atajos que afecten la durabilidad de tu proyecto." }
+    ]
+  },
+  "credentials": {
+    "title": "Credenciales y Cobertura",
+    "license": "Licencia de Contratista del Estado de Florida",
+    "licenseNumber": "Licencia #CGC-000000",
+    "insurance": "Seguro de Responsabilidad General",
+    "insuranceDetail": "Totalmente asegurado — tu propiedad está protegida.",
+    "years": "Más de 10 Años en el Negocio",
+    "yearsDetail": "Sirviendo a Tampa Bay desde 2014."
+  },
+  "cta": {
+    "title": "¿Listo para Trabajar Juntos?",
+    "body": "Hablemos de tu proyecto.",
+    "button": "Cotización Gratis"
+  }
+}
